@@ -1,0 +1,17 @@
+.timeCard {
+    display: flex;
+    list-style: none;
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 0;
+}
+
+.timeCard > li {
+    text-align: center;
+    width: 16%;
+    height: 200px;
+    margin: 2%;
+    background-color: aqua;
+    border-radius: 10%;
+}
