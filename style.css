@@ -7,16 +7,13 @@
     padding: 0;
 }
 
-.timeCard > li {
+.card{
     text-align: center;
     width: 30%;
     height: 350px;
     margin: 2%;
     background-color: #1e88e5;
     border-radius: 10%;
-}
-
-.card {
     transition: 1s;
 }
 
@@ -25,5 +22,6 @@
 }
 
 .rotate {
+    background-color: #e53935;
     transform:rotateY(180deg);
 }
