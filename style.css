@@ -1,3 +1,6 @@
+body {
+    background-color: whitesmoke;
+}
 .timeCard {
     display: flex;
     list-style: none;
